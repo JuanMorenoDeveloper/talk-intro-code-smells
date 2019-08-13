@@ -1,0 +1,26 @@
+= Introducción a code smells
+:icons: font
+:twitter-tag: ACCSA
+:conference-tag:
+:talk-tag: Code Smells
+:linkattrs:
+
+include::footer.ad[]
+
+[NOTE.speaker]
+====
+Contenido de la presentación:
+
+* Secciones teóricas:
+** ¿Que son los code smells?
+** Mysterious Name
+** Duplicated Code
+** Long Function
+** Long Function
+** Global Data
+** Mutable Data
+** Divergent Change
+
+====
+
+include::self.ad[]
